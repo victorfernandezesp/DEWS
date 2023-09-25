@@ -31,7 +31,11 @@ $foto =  "https://i.etsystatic.com/13855153/r/il/71b4ce/2696101864/il_570xN.2696
         <li><?php echo "Twitter de contacto: ". "<a href=\"$twitter\">Twitter</a>" ?></li>
         <li><?php echo "<img src=\"$foto\" alt=\"Foto de Huron\">" ?></li>
     </ul>
-
+    <h3><a href="https://github.com/victorfernandezesp/DEWS/blob/main/Tema2/ejercicio2.php">
+        <?php
+        echo "Link de Github al Ejercicio"; 
+        ?>
+    </a></h3>
     
 </body>
 </html>

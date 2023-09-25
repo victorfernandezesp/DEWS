@@ -8,7 +8,7 @@
 $mensaje = "\"Hola Mundo\"";
 echo $mensaje;?>
 
-<h3><a href="https://github.com/victorfernandezesp/DEWS/blob/main/Tema1/ej1.php">
+<h3><a href="https://github.com/victorfernandezesp/DEWS/blob/main/Tema2/ejercicio1.php">
 <?php
 echo "Link de Github al Ejercicio"; 
 ?>
